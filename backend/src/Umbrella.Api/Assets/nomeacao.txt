@@ -1,0 +1,12 @@
+﻿As seguradoras referidas, A/C Departamento de Seguro.
+
+REF: Transferência de corretagem / nomeação de Tomador.
+
+Declaramos que a CORRETORA - GRANTO CORRETORA DE SEGUROS LTDA, CNPJ 09.013.155/0001-37, registro Susep 202011493, detentora da marca GRANTO SEGUROS passa a nos representar diante ao mercado de seguros para gestão de cadastro, emissão de apólices e endossos diante as cias seguradoras para o produto de SEGURO GARANTIA, que venham a ser contratados por nossa empresa, {{empresa}} inscrita sob {{cnpj}} e filiais. Nossa empresa pode findar esta parceria a qualquer momento indicando nova corretora se assim desejar. No entanto, caso a corretora tenha dado entrada em demanda, posterior aprovada dentro da cia o direito de emissão fica reconhecido a ela pelo empenho realizado.
+
+Por ser verdade, datamos e assinamos o presente.
+{{cidade}}, {{uf}}. {{data}}.
+_______________________________________________________________
+
+Representante legal da {{empresa}}
+{{cnpj}}

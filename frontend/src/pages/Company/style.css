@@ -1,0 +1,41 @@
+.company-button-first {
+    background: linear-gradient(180deg, #6735BE 0%, #4803C2 100%);
+    border-radius: 4px;
+    color: #FFF;
+    outline: none;
+}
+
+.company-button-unselected {
+    background-color: #FFF;
+    border: 1px solid #4510A3;
+    border-radius: 4px;
+    color: #4510A3;
+    font-weight: 700;
+    outline: none;
+}
+
+.company-button-second {
+    background: #C8B8E4;
+    border-radius: 4px;
+    color: #FFF;
+    outline: none;
+}
+
+.company-input > input {
+    outline: none;
+    background-color: white;
+    border: 1px solid #d4d4d4;
+    width: 100%;
+    height: 45px;
+    color: #111827;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    border-radius: 8px;
+    display: block;
+    padding: 0.25rem;
+    margin: 5px 0;
+}
+.company-input > span {
+    margin-left: 3px;
+
+}
